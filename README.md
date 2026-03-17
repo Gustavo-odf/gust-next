@@ -6,10 +6,9 @@ systems analysis student and Development 🎓 and i'm in 1st semesteer 📚
 🐎 I like horses, lassoing, and long-distance motorcycle rides 🏍️
 📖 I also enjoy reading and keeping up date on the world of technology 💻
 
-🚀 Currently learning
-💡 Programming Logic
-📊 Algorithms
-🛠️ Development Fundamentals
+🚀 Currently learning: 
+💡 Programming Logic - 
+🛠️ Development Fundamentals - 
 🔧 Git & GitHub
 
 🌐 Connect with me
